@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: 'Impact', 'Charcoal', sans-serif;
+}
+
+input {
+	width: 80%;
+	text-align: center;
+	font-size: 30px;
+}
+
+p {
+	font-family: "Courier New", Courier, monospace;
+}
